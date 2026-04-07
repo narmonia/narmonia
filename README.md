@@ -1,5 +1,1 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=My%20Skills&fontColor=ffffff&fontSize=40)
-
-... your skills content here ...
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
+![My Skills](https://capsule-render.vercel.app/api?type=transparent&height=120&text=My%20Skills&fontColor=6a0dad&fontSize=60&fontAlign=50&desc=Only%20Use%20Text&descAlign=60&descAlignY=80&descSize=20)
