@@ -1,4 +1,4 @@
-## Hi there 👋
+![My Skills](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=My%20Skills&fontColor=ffffff&fontSize=40)
 
 <!--
 **narmonia/narmonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
